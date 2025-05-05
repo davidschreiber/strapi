@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "motivational_messages",
+  "info": {
+    "singularName": "motivational-message",
+    "pluralName": "motivational-messages",
+    "displayName": "Motivational Message"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "message": {
+      "type": "text"
+    }
+  }
+}
